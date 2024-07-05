@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gonzalo-e-Sosa
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Astro and Laravel
 - 💞️ I’m looking to collaborate on amazing projects
 - 📫 How to reach me gonzalososa2001@outlook.com OR my linkedin -> www.linkedin.com/in/gonzalo-e-sosa
 
